@@ -1,0 +1,148 @@
+body {
+  font-family: Roboto, Raleway, sans-serif;
+  color: #212121;
+}
+.logo {
+  text-decoration: none;
+  color: #000000;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+}
+.logo-color {
+  color: #2196f3;
+}
+.nav-list {
+  list-style: none;
+}
+.nav-list-item-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  color: #212121;
+}
+.nav-list-item-link:hover,
+.nav-list-item-link:focus {
+  color: #2196f3;
+}
+.main-header-section {
+  background-color: #2f303a;
+}
+.main-header-text {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.main-header-button {
+  background: #2196f3;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.88;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.main-description-list-header {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.main-description-list-text {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.team-section-list,
+.services-section-list,
+.main-description-list {
+  list-style: none;
+}
+.services-section-header,
+.team-section-header {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+.team-section-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+.team-section-profession {
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.contact {
+  color: #757575;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+.contact-mail {
+  text-decoration: underline;
+  color: #757575;
+}
+.contact:hover,
+.contact:focus {
+  color: #2196f3;
+}
+.address {
+  color: #ffffff;
+}
+footer {
+  background-color: #2f303a;
+}
+
+.filters-item,
+.projects-list {
+  list-style: none;
+}
+.filters-button {
+  background: #f5f4fa;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  cursor: pointer;
+}
+.filters-button:hover,
+.filters-button:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.projects-name {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+}
+.projects-description {
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
+  color: #757575;
+}

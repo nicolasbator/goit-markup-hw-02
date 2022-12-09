@@ -1,1 +1,1 @@
-# goit-markup-hw-02
+https://nicolasbator.github.io/goit-markup-hw-02/
